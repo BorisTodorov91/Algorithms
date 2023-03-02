@@ -1,8 +1,7 @@
-package SortingAlgorithm;
-
-import java.util.Collections;
+package SortingAlgorithm.A01BubbleSort;
 
 public class BubbleSort {
+
 
 
     public void sort(int[] arr) {
@@ -25,4 +24,5 @@ public class BubbleSort {
             System.out.print(i + " ");
         }
     }
+
 }
